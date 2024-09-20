@@ -1,0 +1,11 @@
+#What did you learn about working with CSV files and pandas DataFrames? 
+
+Through this assignment, I learned how to efficiently work with CSV files using Pandas dataframes. I became more confident in my abilities in loading and analyzing large datasets, particularly by handling files that might have formatting issues, such as skipping a header column. One of the biggest things I learned was how pandas provides a versatile set of tools for cleaning, filtering, and transforming data, making it easier to perform in-depth analysis. The analysis aspect of the assignment required filtering the players based on their playing time, identifying top performers in different metrics like assists, rebounds, and blocks, and grouping data by schools to summarize team performance. Performing this kind of analysis helped me realize how pandas has the ability to quickly manipulate, filter, and summarize data.
+
+#What were the challenges and how did you overcome them?
+
+One of the most challenging aspects of this assignment was dealing with the misalignment of column headers and rows. The first row of the dataset contained column names, but they were not recognized properly, and the later data rows needed careful handling. To overcome this, I had to inspect the DataFrame's structure, identify how the rows and columns were organized, and apply the correct method to skip rows and rename columns. 
+
+#Broader applications of these insights in other real-world datasets? 
+
+The insights gained from this assignment are widely applicable to other datasets, not only in sports but also in business, healthcare, and finance. For example, filtering players based on performance metrics is similar to analyzing employee productivity in a business setting. Grouping data by schools reminds me of how companies can analyze sales by region so they are aware of what products are popular in which regions and market in those specific regions. The skills developed from this assignment, such as grouping, filtering, and calculating statistics, are essential for drawing meaningful insights in any field.
